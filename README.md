@@ -1,6 +1,6 @@
 - 👋 Hi, I’m pithun
 - 👀 I’m interested in data analysis, machine learning, virtual reality 😄 and chess.
-- 🌱 I’m currently learning SQL.
+- 🌱 I’m currently learning to use CNN in classification and  Semantic Segmentation.
 -
 - 📫 How to reach me 
 https://www.linkedin.com/in/udoh-chigozie-7a91bb21b
