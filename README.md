@@ -4,7 +4,7 @@
 - 🏗️ My research focuses on **computer vision** featuring approaches like **crack semantic segmentation** through novel algorithms and other approaches for Civil Engineering applications.  
 - 🎯 I'm passionate about **AI for construction, smart cities, and robotics**.
 - ♟️ When I'm not coding, you’ll find me playing **chess** or learning more about **the universe**!
-- 📫 Reach me on the blue app [LinkenIn Profile](https://www.linkedin.com/in/udoh-chigozie)
+- 📫 Reach me on the blue app [LinkedIn Profile](https://www.linkedin.com/in/udoh-chigozie)
 
 Always open to collaboration—let’s build something awesome! 🚀  
 
